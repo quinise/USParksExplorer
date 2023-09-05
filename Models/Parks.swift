@@ -2,6 +2,8 @@
 //  Parks.swift
 //  USParksExplorer
 //
+// This file defines the attributes of a Park (a US National Park) and Parks (an array of parks).
+//
 //  Created by Devin Ercolano on 12/31/22.
 //
 
